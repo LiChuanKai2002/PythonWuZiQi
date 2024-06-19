@@ -3,6 +3,7 @@
   
 # 文件介绍
   WuZiQi文件夹为Python程序文件夹，可直接使用PyCharm打开执行。
+  
   五子棋1.0.exe文件为Python程序导出的可执行文件。
 
   
