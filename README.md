@@ -3,8 +3,8 @@
   
   使用简单，将WuZiQi文件夹使用PyCharm打开执行main.py即可。
 
-# 文件介绍
-  WuZiQi文件夹为Python程序文件夹，可直接使用PyCharm打开执行。
+# 配置与运行
+  使用PyCharm打开WuZiQi文件夹，执行其中的main.py即可。
   
   五子棋1.0.exe文件为Python程序导出的可执行文件。
 
