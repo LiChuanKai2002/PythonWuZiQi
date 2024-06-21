@@ -1,7 +1,6 @@
 # 关于
   基于Python与Tkinter的可视化五子棋游戏，可作为Python课程设计。
   
-  使用简单，将WuZiQi文件夹使用PyCharm打开执行main.py即可。
 
 # 配置与运行
   使用PyCharm打开WuZiQi文件夹，执行其中的main.py即可。
